@@ -7,7 +7,7 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 
 WeRateDogs downloaded their Twitter archive and shared it exclusively for use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 
-
+![68747470733a2f2f64313768323774366835313561352e636c6f756466726f6e742e6e65742f746f706865722f323031372f4f63746f6265722f35396464333738665f646f672d72617465732d736f6369616c2f646f672d72617465732d736f6369616c2e6a7067](https://user-images.githubusercontent.com/48868854/55638993-0d5ffd80-57e6-11e9-9e4d-511a080fcb8e.jpeg)
 
 # Project Details
 Your tasks in this project are as follows:
